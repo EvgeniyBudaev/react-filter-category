@@ -1,8 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React Filter by Category
+
+#All
+![Image alt](https://github.com/EvgeniyBudaev/react-filter-category/raw/master/images/all.jpg)
+#Frontend
+![Image alt](https://github.com/EvgeniyBudaev/react-filter-category/raw/master/images/frontend.jpg)
+#Backend
+![Image alt](https://github.com/EvgeniyBudaev/react-filter-category/raw/master/images/backend.jpg)
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+### `npm install node-sass`
 
 ### `npm start`
 
