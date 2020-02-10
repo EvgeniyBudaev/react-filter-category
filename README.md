@@ -1,11 +1,11 @@
 React Filter by Category
 
 #All
-![Image alt](https://github.com/EvgeniyBudaev/react-filter-category/raw/master/images/all.jpg)
+![Image alt](https://github.com/EvgeniyBudaev/react-filter-category/raw/master/public/images/all.jpg)
 #Frontend
-![Image alt](https://github.com/EvgeniyBudaev/react-filter-category/raw/master/images/frontend.jpg)
+![Image alt](https://github.com/EvgeniyBudaev/react-filter-category/raw/master/public/images/frontend.jpg)
 #Backend
-![Image alt](https://github.com/EvgeniyBudaev/react-filter-category/raw/master/images/backend.jpg)
+![Image alt](https://github.com/EvgeniyBudaev/react-filter-category/raw/master/public/images/backend.jpg)
 
 ## Available Scripts
 
